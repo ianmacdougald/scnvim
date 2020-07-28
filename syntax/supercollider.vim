@@ -122,7 +122,7 @@ hi def link scUnaryoperator Special
 hi def link scAoperator Statement
 hi def link scArate Statement
 hi def link scKrate Statement
-hi def link scSymbol Constant
+hi def link scSymbol Function
 hi def link scString String
 hi def link scChar String
 hi def link scInteger Number
